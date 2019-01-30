@@ -1,0 +1,27 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+}
+
+#titolo {
+    text-align:center;
+    color:white;
+    
+    
+    padding: 0px;
+    margin: 0px;
+}
+    
+
+#body{
+    margin: 0px;
+    padding: 0px;
+}
+#ciao{
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+#imgesco{
+    width:100%;
+}
