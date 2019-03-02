@@ -13,9 +13,11 @@
 }
     
 
-#body{
+#corpo{
     margin: 0px;
     padding: 0px;
+    background-image:url(C:\Users\13_INF1\Documents\5ainf\lavorogruppolista\EscoBar\escobar.jpg) no-repeat; 
+    
 }
 #ciao{
     background-color: black;
